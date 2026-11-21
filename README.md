@@ -30,7 +30,8 @@ Follow the `// TODO` comments in the code. Each maps to a task in the assignment
 ## My deployed link
 
 <!-- Task 5: paste your live URL here before you zip and submit -->
-**Live URL:** _add your deployed link here_
+**Live URL:** https://stayspot-delta.vercel.app
+
 
 ## Files you will touch / create
 
