@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  images: {
+    remotePatterns: [{ protocol: "https", hostname: "picsum.photos" }],
+  },
   // TODO (Task 4 — images): next/image blocks remote image hosts by default, so the
   // stay photos (from https://picsum.photos) will error until you allow that host.
   // Add an images.remotePatterns entry, e.g.
